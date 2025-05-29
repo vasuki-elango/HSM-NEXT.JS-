@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/appointment/route": "/api/appointment",
+  "/api/doctors/[id]/route": "/api/doctors/[id]",
+  "/api/doctors/route": "/api/doctors",
+  "/api/speciallist/route": "/api/speciallist",
+  "/about/page": "/about",
+  "/appointment/page": "/appointment",
+  "/doctors/[slug]/page": "/doctors/[slug]",
+  "/doctors/page": "/doctors",
+  "/page": "/"
+}

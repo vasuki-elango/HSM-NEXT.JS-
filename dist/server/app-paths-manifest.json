@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/appointment/route": "app/api/appointment/route.js",
+  "/api/doctors/[id]/route": "app/api/doctors/[id]/route.js",
+  "/api/doctors/route": "app/api/doctors/route.js",
+  "/api/speciallist/route": "app/api/speciallist/route.js",
+  "/about/page": "app/about/page.js",
+  "/appointment/page": "app/appointment/page.js",
+  "/doctors/[slug]/page": "app/doctors/[slug]/page.js",
+  "/doctors/page": "app/doctors/page.js",
+  "/page": "app/page.js"
+}
